@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Web Mapping Portfolio</title>
- 
-</head>
+<html>
+    <head>
+        <title>Web Mapping Portfolio</title>
+		    <!-- link to main stylesheet -->
+		    <link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+
 <body>
   <h1>Welcome to my Web Mapping Portfolio!</h1>
   <p>Hi, I'm <strong>[Your Name]</strong>.</p>
