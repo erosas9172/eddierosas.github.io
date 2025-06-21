@@ -7,6 +7,7 @@
   <h2>Explore My Wildfire Map:</h2>
 
 <iframe src="{{ site.baseurl }}/assets/maps/mainwildfire.html" width="800" height="600" frameborder="0"></iframe>
+<script src="mainwildfire.js"></script>
 
 <strong>Stay tuned for updates!</strong>
 
