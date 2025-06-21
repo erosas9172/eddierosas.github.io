@@ -3,6 +3,10 @@
 <p>This is a very basic first page for my website, which I will be building as part of the GIS course.</p>
 
 <p>Here are a few things I might include later:</p>
+
+<p>* Links to my web mapping projects
+* Information about my skills and experience
+* A way to contact me</p>
 <ul>
   <h2>Explore My Wildfire Map:</h2>
 
