@@ -5,8 +5,8 @@
 <p>Here are a few things I might include later:</p>
 
 <p>* Links to my web mapping projects
-* Information about my skills and experience
-* A way to contact me</p>
+<p>* Information about my skills and experience</p>
+<p>* A way to contact me</p>
 <ul>
   <h2>Explore My Wildfire Map:</h2>
 
