@@ -5,12 +5,8 @@
 <p>Here are a few things I might include later:</p>
 <ul>
   <h2>Explore My Wildfire Map:</h2>
-<iframe 
-  src="assets/maps/mainwildfire.html" 
-  width="100%" 
-  height="600" 
-  frameborder="0">
-</iframe>
+
+<iframe src="{{ site.baseurl }}/assets/maps/mainwildfire.html" width="800" height="600" frameborder="0"></iframe>
 
 <strong>Stay tuned for updates!</strong>
 
